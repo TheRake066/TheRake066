@@ -56,3 +56,6 @@
 </picture>
 
 ###
+###
+![snake animation](https://github.com/TheRake066/TheRake066/blob/output/github-contribution-grid-snake2.svg)
+###
