@@ -55,6 +55,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TheRake066/TheRake066/output/pacman-contribution-graph.svg">
 </picture>
 
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/TheRake066/TheRake066/blob/output/github-contribution-grid-snake2.svg)
 
 ###
