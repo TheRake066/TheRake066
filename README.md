@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">oi pessoal! meu nome é Sid, eu programo em python e quero levar programação para um lado mais profissional, além disso estou começando na programação com apenas o básico, tipo um notebook velho e um celular de 2020.<br><br>embora ainda pareça dificil encontrar o primeiro emprego como Dev, eu ainda posso ajudar com diversas aréas fora da programação, como por exemplo sou Design Gráfico e tenho inglês intermediario, estudei conceitos sobre desenho por 2 anos e sinto que estou bem pro meu nivel.<br><br>Obrigado por ler isso!</p>
+<p align="left">oi pessoal! meu nome é Sid, eu programo em python e quero levar programação para um lado mais profissional, além disso estou começando na programação com apenas o básico, tipo um notebook velho e um celular de 2020.<br><br>embora ainda pareça dificil encontrar o primeiro emprego como Dev, eu ainda posso ajudar com diversas aréas fora da programação, como por exemplo sou Design Gráfico e tenho inglês intermediario, estudei conceitos sobre desenhos por 2 anos e sinto que estou bem pro meu nivel.<br><br>Obrigado por ler isso!</p>
 
 ###
 
